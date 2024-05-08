@@ -1,6 +1,6 @@
 print("this is my seond version ")
 a=int(input("enter first number"))
-b=int(input("enter second number"))
+b=int(input("enter seconujyjgd number"))
 c=a+b
 if c>a:
     print("c is greater")
